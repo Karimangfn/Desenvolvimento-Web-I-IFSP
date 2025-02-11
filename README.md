@@ -35,7 +35,7 @@ O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) 
 
 ## 📚 Disciplina
 
-A disciplina Desenvolvimento WEB I aprofunda os conhecimentos acerca do desenvolvimento de aplicações web do lado cliente. Nela é aprofundada a linguagem JavaScript, apresentando as principais características e técnicas de desenvolvimento.
+A disciplina Desenvolvimento Web I aprofunda os conhecimentos acerca do desenvolvimento de aplicações web do lado cliente. Nela é aprofundada a linguagem JavaScript, apresentando as principais características e técnicas de desenvolvimento.
 
 ## 💻 Atividades
 
