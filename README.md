@@ -41,14 +41,14 @@ A disciplina Desenvolvimento Web I aprofunda os conhecimentos acerca do desenvol
 
 Para acessar os repositórios com os códigos fonte dos projetos, basta clicar no link correspondente:
 
-- [Atividade 1]()
-- [Atividade 2]()
-- [Atividade 3]()
-- [Atividade 4]()
-- [Atividade 5]()
-- [Atividade 6]()
-- [Atividade 7]()
-- [Projeto]()
+- [Atividade 1](https://github.com/Karimangfn/Desenvolvimento-Web-I-IFSP/tree/main/Atividades/Atividade%201)
+- [Atividade 2](https://github.com/Karimangfn/Desenvolvimento-Web-I-IFSP/tree/main/Atividades/Atividade%202)
+- [Atividade 3](https://github.com/Karimangfn/Desenvolvimento-Web-I-IFSP/tree/main/Atividades/Atividade%203)
+- [Atividade 4](https://github.com/Karimangfn/Desenvolvimento-Web-I-IFSP/tree/main/Atividades/Atividade%204)
+- [Atividade 5](https://github.com/Karimangfn/Desenvolvimento-Web-I-IFSP/tree/main/Atividades/Atividade%205)
+- [Atividade 6](https://github.com/Karimangfn/Desenvolvimento-Web-I-IFSP/tree/main/Atividades/Atividade%206)
+- [Atividade 7](https://github.com/Karimangfn/Desenvolvimento-Web-I-IFSP/tree/main/Atividades/Atividade%207)
+- [Projeto](https://github.com/Karimangfn/Desenvolvimento-Web-I-IFSP/tree/main/Projeto)
 </p>
 
 ## ▶️ Como Executar Arquivos Web (HTML, CSS, JS)
