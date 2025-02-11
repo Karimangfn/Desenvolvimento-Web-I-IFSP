@@ -1,0 +1,20 @@
+p {
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    margin-left: 110px;
+    padding: 33px 30px 50px 80px;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.classe {
+    font-family: Arial, Helvetica, sans-serif
+    !important;
+}
+
+#Fonte h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}

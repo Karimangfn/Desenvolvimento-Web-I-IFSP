@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    p.dotted {border-style: dotted;}
+    p.dashed {border-style: dashed;}
+    p.solid {border-style: solid;}
+    p.double {border-style: double;}
+</style>
+        <meta charset="utf-8">
+        <title>Html e Css</title>
+        <link rel="stylesheet" href="style.css"
+        type="text/css">
+</head>
+<body>  
+        <!-- A .classe tem mais valor que a Tag h1 -->
+        <h1 class = "classe"><p class= "dotted">Fonte Predominante: Arial, Helvetica, sans-serif</p></h1>
+
+        <!-- A Tag h1 tem mais valor pois é a unica sendo usada -->
+        <h1><p class= "dashed">Fonte Predominante: Times New Roman, Times, serif</p></h1>
+        
+        <div id = "Fonte">
+        <!-- O Seletor #Fonte h1 tem mais valor que a Tag h1 -->
+        <h1><p class= "solid">Fonte Predominante: Lucida Console, Courier New, monospace</p></h1>
+        <!-- A .classe tem mais valor que o Seletor Por ter a declaração !important -->
+        <h1 class = "classe"><p class= "double">Fonte Predominante: Arial, Helvetica, sans-serif</p></h3>
+        </div>
+</body>
+</html>

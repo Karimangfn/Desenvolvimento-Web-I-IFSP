@@ -1,0 +1,50 @@
+#Header {
+    width: 96%;
+    height: 18vh;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 10px solid green;
+}
+
+#Navigation {
+    width: 96%;
+    height: 12vh;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 10px solid green;
+}
+
+#Main {
+    width: 70%;
+    height: 27vh;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 10px solid green;
+}
+
+#Secundario {
+    float: right;
+    width: 24%;
+    height: 27vh;
+    margin-top: -235px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 10px solid green;
+}
+
+#Footer {
+    width: 96%;
+    height: 18vh;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 10px solid green; 
+}

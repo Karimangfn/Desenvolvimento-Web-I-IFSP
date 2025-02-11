@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html style="background-color: lightblue;"> 
+<head>
+    <style>
+        h2 {
+        color: blue;
+        text-align: left;
+        }
+        </style>
+<title>Formulario_Kariman Gomes</title>
+<link rel="stylesheet" href="css_apoio.css" type="text/css">
+</head>
+<body>
+<div id=”Formulário”>
+    <h1 style="color: black; text-align: center;">Formulário</h1>
+    <form action="/pagina_destino.php">
+        <h2><label for="primeironome">Primeiro nome:</label><br/>
+        <input type="text" id="primeironome" name="primeironome"
+        value="Seu primeiro nome" required><br/><br/></h2>
+        <h2><label for="ultimonome">Último nome:</label><br/>
+        <input type=" text" id="ultimonome" name="ultimonome"
+        value="Seu último nome" required><br/><br/></h2>
+        <h2><label for="nasc">Nascimento:</label><br/>
+        <input type="date" id="nasc" name="nasc" max="1979-01-01" min="2000-01-01"><br/><br/>
+        <h2><label for="email">Seu Email:</label><br/>
+        <input type="email" id="email" name="email"
+        value="Seu E-Mail"><br/><br/></h2>
+        <h2><label for="estado">Estado:</label><br/>
+        <input type="text" id="estado" name="estado" pattern="[A-Za-z]{2}"
+        title="Sigla do estado com duas letras." required><br/><br/></h2>
+        <p><h2><label for="lprogramacao">Linguagem de Programação:</label><br/></h2></p>
+        <input type="radio" id="Java" name="linguagem" value="Java">
+        <label for="Java">Java</label><br/>
+        <input type="radio" id="C#" name="linguagem" value="C#">
+        <label for="C#">C#</label><br/>
+        <input type="radio" id="Javascript" name="linguagem" value="JavaScript">
+        <label for="Javascript">JavaScript</label><br/><br/>
+        <p><h2><label for="periodo">Período:</label><br/></h2></p>
+        <input type="checkbox" id="manha" name="manha" value="manha">
+        <label for="manha"> Manha</label><br/>
+        <input type="checkbox" id="tarde" name="tarde" value="tarde">
+        <label for="tarde"> Tarde</label><br/>
+        <input type="checkbox" id="noite" name="noite" value="noite">
+        <label for="noite"> Noite</label><br/><br/></p>
+        <input type="submit" onclick="alert('Escolha seu Período de Disponibilidade para Trabalho')" value="Ajuda">
+        <h2><label for="qtd">Anos de Experiência (entre 0 e 20):</label></h2>
+        <input type="number" id="qtd" name="qtd" min="0" max="20"><br/><br/>
+        <input type="submit" value="Enviar">
+        </form>
+</body>
+</html>
